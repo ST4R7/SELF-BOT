@@ -47,7 +47,7 @@ Clone this project or downlod
 ctrl+c
 ```
 ## Feature
-__
+---
 |Group Menu|
 | :------------: | :---------------------------------------------: |
 | ✅ | hidetag <teks>|
@@ -133,4 +133,4 @@ __
 | ✅ | setprefix|
 | ✅ | cekchat|
 | ✅ | blocklist|
-__
+---
