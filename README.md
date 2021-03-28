@@ -12,11 +12,8 @@
 <div>
 ## Information
   
-#### This script is open to anyone! If you want to add commands, please contribute / pull
-request! Buying and selling scripts is prohibited!
-- Change [ownerNumber
-- in index.js L194 to be your number
->OwnerNumber = "62813xxxxxxx@s.whatsapp.us"
+##Owner number
+ownerNumber = "6213xxxxxx@c.us"
 
 ## Apikey
 Open setting.js then edit & paste it in YOUR_APIKEY
