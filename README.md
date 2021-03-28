@@ -36,6 +36,10 @@ Clone this project or downlod
 > git clone https://github.com/Zalleya/SELF-BOT
 > cd c;/SELF-BOT-Biles
 ```
+### FILE UNTUK WINDOWS/VPS/RDP USER
+* Download And Install Git [`Click Here`](https://git-scm.com/downloads) <br>
+* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download) <br>
+
 ## Usage
 1. run the whatsapp bot /Termos/Window/Rdp Vps
 ```bash
