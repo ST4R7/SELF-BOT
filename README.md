@@ -30,3 +30,19 @@ Apikey Location
 > wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 > npm install
 ```
+## Install in window / rdp vps
+Clone this project or downlod
+```bash
+> git clone https://github.com/Zalleya/SELF-BOT-Biles
+> cd c;/SELF-BOT-Biles
+```
+## Usage
+1. run the whatsapp bot /Termos/Window/Rdp Vps
+```bash
+> node index.js
+```
+
+2. stop the Whatsapp bot
+```bash
+ctrl+c
+```
