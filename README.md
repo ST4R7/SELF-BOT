@@ -49,7 +49,7 @@ ctrl+c
 ## Feature
 ---
 |Group Menu|
-| :------------: |
+| :------------|
 | ✅ | hidetag <teks>|
 | ✅ | listadmin|
 | ✅ | grup close|open|
@@ -64,9 +64,8 @@ ctrl+c
 | ✅ | linkgc|
 | ✅ | clone|
 
-
 |Anime Menu|
-| :------------: | :---------------------------------------|
+| :------------: | :------------------------------------|
 | ✅ | randomwblowjob|
 | ✅ | randomhentai|
 | ✅ | nsfwneko|
@@ -78,7 +77,7 @@ ctrl+c
 | ✅ | waifu|
 
 |Media Menu|
-| :------------: | :-------------------------------: |
+| :------------: | :---------------------: |
 | ✅ | ssweb <link>|
 | ✅ | tomp3 <reply video>|
 | ✅ | brainly|
@@ -102,7 +101,7 @@ ctrl+c
 | ✅ | howak|
 
 |Storage Menu|
-| :---------------: |------------------------------------: |
+| :---------------: |---------------------------: |
 | ✅ | addsticker <optional>|
 | ✅ | getsticker <optional>|
 | ✅ | liststicker|
