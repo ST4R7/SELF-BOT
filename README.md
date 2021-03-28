@@ -16,7 +16,7 @@ Open setting.js then edit & paste it in YOUR_APIKEY
 - [BARBAR](https://http://mhankbarbar.moe)
 
 Apikey Location
-- [INDEX.JS](https://github.com/Zalleya/SELF-BOT-Biles/blob/main/index.js)
+- [INDEX.JS](https://github.com/Zalleya/SELF-BOT/blob/main/index.js)
 
 ## Install For Termos / Termux
 ```> apt-get update
@@ -33,7 +33,7 @@ Apikey Location
 ## Install in window / rdp vps
 Clone this project or downlod
 ```bash
-> git clone https://github.com/Zalleya/SELF-BOT-Biles
+> git clone https://github.com/Zalleya/SELF-BOT
 > cd c;/SELF-BOT-Biles
 ```
 ## Usage
