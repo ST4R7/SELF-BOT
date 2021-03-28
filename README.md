@@ -48,87 +48,89 @@ ctrl+c
 ```
 ## Feature
 
-hidetag <teks>
+|Group Menu|
+| :------------: | :---------------------------------------------: |
+| ✅ | hidetag <teks>|
+| ✅ | listadmin|
+| ✅ | grup close|open|
+| ✅ | gcname <teks>|
+| ✅ | gcdesk <teks>|
+| ✅ | add 62xxx|
+| ✅ | kick 62xxx|
+| ✅ | promote @tag|
+| ✅ | demote @tag|
+| ✅ | leave|
+| ✅ | infogc|
+| ✅ | linkgc|
+| ✅ | clone|
 
-listadmin
-grup close|open
-gcname <teks>
-gcdesk <teks>
-add 62xxx
-kick 62xxx
-promote @tag
-demote @tag
-leave
-infogc
-linkgc
-clone
 
+|Anime Menu|
+| :------------: | :---------------------------------------------: |
+| ✅ | randomwblowjob|
+| ✅ | randomhentai|
+| ✅ | nsfwneko|
+| ✅ | nsfwtrap|
+| ✅ | animehuggif|
+| ✅ | loli||
+| ✅ | shota|
+| ✅ | otakulast|
+| ✅ | waifu|
 
-◪ Anime Menu
+|Media Menu|
+| :------------: | :---------------------------------------------: |
+| ✅ | ssweb <link>|
+| ✅ | tomp3 <reply video>|
+| ✅ | brainly|
+| ✅ | truth|
+| ✅ | dare|
+| ✅ | tts|
+| ✅ | wait|
+| ✅ | ocr|
+| ✅ | joox <optional>|
+| ✅ | play <optional>|
+| ✅ | pinterest <optional>||
+| ✅ | logowolf [teks]
+| ✅ | simi [teks]|
+| ✅ | tahta [teks]|
+| ✅ | thunder [teks]|
+| ✅ | wiki [teks]|
+| ✅ | map [teks]|
+| ✅ | kbbi [teks]|
+| ✅ | tinyurl <link>|
+| ✅ | ytmp4 <link>|
+| ✅ | howak|
 
-randomwblowjob
-randomhentai
-nsfwneko
-nsfwtrap
-animehuggif
-loli
-shota
-otakulast
-waifu
-
-◪ Media Menu
-
-ssweb <link>
-tomp3 <reply video>
-brainly
-truth
-dare
-tts
-wait
-ocr
-joox <optional>
-play <optional>
-pinterest <optional>
-logowolf [teks]
-simi [teks]
-tahta [teks]
-thunder [teks]
-wiki [teks]
-map [teks]
-kbbi [teks]
-tinyurl <link>
-ytmp4 <link>
-howak
-
-◪ Stiker
-
-addsticker <optional>
-getsticker <optional>
-liststicker
-addvn <optional>
-getvn <optional>
-listvn
-addvideo <optional>
-getvideo <optional>
-listvideo
-addimage <optional>
-getimage <optional>
-listimage
-sticker
-toimg
+|Storage Menu|
+| :---------------: |---------------------------------------------: |
+| ✅ | addsticker <optional>|
+| ✅ | getsticker <optional>|
+| ✅ | liststicker|
+| ✅ | addvn <optional>|
+| ✅ | getvn <optional>|
+| ✅ | listvn|
+| ✅ | addvideo <optional>|
+| ✅ | getvideo <optional>|
+| ✅ | listvideo|
+| ✅ | addimage <optional>|
+| ✅ | getimage <optional>|
+| ✅ | listimage|
+| ✅ | sticker|
+| ✅ | toimg|
   
-◪ Advance Menu
+|Advance Menu|
+| :---------------: |---------------------------------------------: |
+| ✅ | bc|
+| ✅ | payment|
+| ✅ | cr1 @tag text|text|
+| ✅ | cr2 <versi private>|
+| ✅ | runtime|
+| ✅ | settarget|
+| ✅ | term <exec>|
+| ✅ | ping|
+| ✅ | setreply
+| ✅ | setnumber|
+| ✅ | setprefix|
+| ✅ | cekchat|
+| ✅ | blocklist|
 
-bc
-payment
-cr1 @tag text|text
-cr2 <versi private>
-runtime
-settarget
-term <exec>
-ping
-setreply
-setnumber
-setprefix
-cekchat
-blocklist
